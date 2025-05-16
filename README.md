@@ -1,4 +1,4 @@
-This Power BI dashboard provides a comprehensive overview of the sales and profit performance of Iremide Shoe Vendor. It tracks key metrics such as total sales, profit distribution, customer behavior, and geographical insights. The dashboard is designed to offer stakeholders a quick and effective way to monitor business performance.
+This Power BI dashboard provides a comprehensive overview of the sales and profit performance of Iremide Vendor. It tracks key metrics such as total sales, profit distribution, customer behavior, and geographical insights. The dashboard is designed to offer stakeholders a quick and effective way to monitor business performance.
 
 📈 Dashboard Components
 1. KPI Cards
